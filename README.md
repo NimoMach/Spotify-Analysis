@@ -1,6 +1,6 @@
 # Spotify-Analysis
-Data Analytics Project on Streaming data of Spotify.
-The Dataset Used for this project can be found here --> https://www.kaggle.com/datasets/dhruvildave/spotify-charts
+Data Analytics Project on Streaming data of Spotify from 2017 to 2021.
+The Dataset Used for this project can be found in this link --> https://www.kaggle.com/datasets/dhruvildave/spotify-charts
 The information is updated on a daily basis. The original chart may be seen here: https://spotifycharts.com/regional
 DataSet Description:
 - Columns of DataSet:
